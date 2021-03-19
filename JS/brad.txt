@@ -1,0 +1,13 @@
+const person = {
+    name: 'John',
+    age: 30,
+    location: 'FL'
+}
+
+console.log(person)
+
+person
+
+console.log('person', person)
+
+console.log()
