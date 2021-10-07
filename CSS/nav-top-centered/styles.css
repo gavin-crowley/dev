@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-/* comment*/
+/* comment here*/
 
 :root {
   --white: #fff;
@@ -94,3 +94,4 @@ header {
   font-size: 0.875rem;
   line-height: 15.68px;
 }
+            
